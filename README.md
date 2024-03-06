@@ -10,3 +10,7 @@ This is a report for a disease outbreak investigation by Outbreak Missions.
 
 - Wolfman
 - Dracula
+- Fenrir
+- Jacob
+- Lycanthrope
+- Remus
