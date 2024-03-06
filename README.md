@@ -14,3 +14,4 @@ This is a report for a disease outbreak investigation by Outbreak Missions.
 - Jacob
 - Lycanthrope
 - Remus
+- Bill
